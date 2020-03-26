@@ -1,0 +1,141 @@
+nano
+nano %cmder_root%\config\my_prompt.lua
+find
+less my_custom_prompt.lua 
+cd vendor
+nano my_custom_prompt.lua 
+whereami
+oh no
+sed
+ln
+ ls
+wget google.com
+npm
+python
+cd C:\Users\bbarjasteh\Downloads\
+cd GetGnuWin32\
+./download.bat
+download.bat 
+install C:\gnuwin32
+git
+git commit -a -m "added cart items to modal display. products are now populating from product service. added some css for scrollable modal in case where too many items exceed modal window size. other bug fixes and code refactoring."
+git rmote
+git remote
+git remote -v
+git remote origin
+git remote 
+git push origin AIH-266 -f
+git commit -a -m "directive template html updates"
+git branch
+git checkout -b aih-443
+git commit -a -m "AD image path update to use first letter of image name for subdirectory folder (prevents cloud image tool from crashing if too many images in one folder). image upload job updated to reflect this remote directory structure on upload to the cloud."
+git push origin aih-443
+git checkout sandbox
+git pull origin aih-443
+git push origin sandbox
+cd C:/projects/aih
+cd ..\insite-commerce
+git pull origin dev
+cd ../aih
+git commit -a -m "added quantity in cart to products in the modal. added real-time pricing and inventory service calls and display pricing data in modal."
+quit
+wget
+curl
+ping
+ip
+ifconfig
+ipconfig
+ipconfig /default
+ipconfig /all
+cd C:/projects
+less $PATH
+less
+less %PATH%
+echo
+cd $projects
+alias
+alias /?
+alias $projects="cd C:\projects"
+cd %USERPROFILE%
+alias $projects='cd C:/projects'
+alias $projects="cd C:/projects"
+echo %ALIAS%
+echo %ENVVARIABLES%
+echo username
+echo %username%
+alias $projects="cd 'C:/projects'"
+echo %ROOT%
+alias $projects="cd '%windir%/../projects'"
+echo $HOME
+echo %HOME%
+alias $projects="cd "%HOME%""
+alias $projects="cd '%HOME%'"
+cd /root
+cd /home
+alias $projects='cd %HOME%'
+$projects 
+echo $projects
+alias $projects="cd %HOME%"
+alias $projects
+alias $projects=cd %HOME%
+alias $projects=cd %~%/projects
+ls $projects
+alias $projects=cd %~%/projects; ls
+alias $projects="cd %~%/projects && ls"
+alias $projects=( cd %~%/projects && ls )
+alias $projects="( cd %~%/projects && ls )"
+alias $projects='( cd %~%/projects && ls )'
+alias $projects="cd %~%/projects"
+alias $projects=cd %~%/projects && ls
+alias $projects=cd %~%/projects $t ls
+ls -a
+ls --color=auto
+alias $projects=cd %~%/projects $t ls --color=auto
+alias $p=cd %~%/projects $t ls --color=auto
+ ls
+ whoami
+ ls
+ ls --color
+ pwd
+ $t ls
+echo $p
+alias $p
+pwd
+alias ls
+alias $p=echo 'changing directory to C:/projects..' $t cd %~%/projects $t ls --color=auto
+alias $p=echo \nChanging directory to C:/projects.. $t cd %~%/projects $t ls --color=auto --show-control-chars -F
+alias $p=echo Changing directory to C:/projects.. $t cd %~%/projects $t ls --color=auto --show-control-chars -F
+alias $p=echo Changing directory to C:/projects.. $t cd %~%/projects $t ls --color $* --show-control-chars -F
+$p
+where
+quaid
+alias $projects=echo Changing directory to C:/projects.. $t cd %~%/projects $t ls --color=auto --show-control-chars -F
+git commit -a -m "filtered cart lines by hazardous flag and inventory availability."
+git checkout -b aih-integration-experimental
+whami
+whoami
+git commit -a -m "refactored category refresh and implemented a new WebsiteCategoryName function. added category product refresh. added several helper functions."
+git push origin aih-integration-experimental 
+git commit -a -m "minor bug fixes"
+git push origin aih-integration-experimental
+git checkout AIH-266
+cd aih
+git commit -a -m "commenting out for now"
+git push origin AIH-266
+git checkout -b aih-266_b
+git push origin aih-266_b
+cd gtsanders
+git pull origin sandbox
+$projects
+cd ~
+cd $HOME
+cd %HOME%
+cd Git
+ls
+git clone https://github.com/bobby-barjasteh/Cmder-Config.git
+cd Cmder-Config\
+mkdir config
+cd ..
+cd config
+git add .
+git status
